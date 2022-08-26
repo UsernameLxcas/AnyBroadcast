@@ -1,0 +1,14 @@
+name: AnyBroadcast
+author: Anytown
+description: Broadcast plugin
+main: AnyPack.Inicio
+version: 1.0
+
+commands:
+  broadcast:
+    usage: /broadcast
+    description: Anuncio general
+    aliases: [bc]
+  bcreload:
+    usage: /bcreload
+    description: reload 
